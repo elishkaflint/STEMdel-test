@@ -3,7 +3,7 @@ class CreateFilms < ActiveRecord::Migration[5.2]
     create_table :films do |t|
       t.string :name
       t.integer :year
-      t.string :rating
+      t.boolean :pass_stemdel_test
 
       t.timestamps
     end

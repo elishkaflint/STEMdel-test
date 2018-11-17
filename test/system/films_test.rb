@@ -15,7 +15,7 @@ class FilmsTest < ApplicationSystemTestCase
     click_on "New Film"
 
     fill_in "Name", with: @film.name
-    fill_in "Rating", with: @film.rating
+    fill_in "Pass Stemdel Test", with: @film.pass_stemdel_test
     fill_in "Year", with: @film.year
     click_on "Create Film"
 
@@ -28,7 +28,7 @@ class FilmsTest < ApplicationSystemTestCase
     click_on "Edit", match: :first
 
     fill_in "Name", with: @film.name
-    fill_in "Rating", with: @film.rating
+    fill_in "Pass Stemdel Test", with: @film.pass_stemdel_test
     fill_in "Year", with: @film.year
     click_on "Update Film"
 

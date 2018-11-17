@@ -7,7 +7,7 @@
     <tr>
       <th>Name</th>
       <th>Year</th>
-      <th>Rating</th>
+      <th>Pass stemdel test</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -17,7 +17,7 @@
       <tr>
         <td><%= film.name %></td>
         <td><%= film.year %></td>
-        <td><%= film.rating %></td>
+        <td><%= film.pass_stemdel_test %></td>
         <td><%= link_to 'Show', film %></td>
         <td><%= link_to 'Edit', edit_film_path(film) %></td>
         <td><%= link_to 'Destroy', film, method: :delete, data: { confirm: 'Are you sure?' } %></td>

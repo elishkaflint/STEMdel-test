@@ -10,12 +10,12 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_11_17_120209) do
+ActiveRecord::Schema.define(version: 2018_11_17_132730) do
 
   create_table "films", force: :cascade do |t|
     t.string "name"
     t.integer "year"
-    t.string "rating"
+    t.boolean "pass_stemdel_test"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

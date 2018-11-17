@@ -3,9 +3,9 @@
 one:
   name: MyString
   year: 1
-  rating: MyString
+  pass_stemdel_test: false
 
 two:
   name: MyString
   year: 1
-  rating: MyString
+  pass_stemdel_test: false
