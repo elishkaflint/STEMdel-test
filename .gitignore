@@ -30,5 +30,3 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
-# IMDB file
-/lib/data/title.basics.tsv
