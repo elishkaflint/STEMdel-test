@@ -10,12 +10,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_11_17_132730) do
+ActiveRecord::Schema.define(version: 2018_11_17_144206) do
 
   create_table "films", force: :cascade do |t|
     t.string "name"
     t.integer "year"
     t.boolean "pass_stemdel_test"
+    t.string "image"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
