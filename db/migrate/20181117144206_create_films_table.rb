@@ -1,6 +1,5 @@
 class CreateFilmsTable < ActiveRecord::Migration[5.2]
   def change
-    drop_table :films
     create_table :films do |t|
       t.string :name
       t.integer :year
