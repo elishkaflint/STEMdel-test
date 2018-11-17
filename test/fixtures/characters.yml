@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  actor_name: MyString
+  character_name: MyString
+  job: MyString
+  film: one
+
+two:
+  actor_name: MyString
+  character_name: MyString
+  job: MyString
+  film: two
