@@ -1,15 +1,15 @@
-﻿name,year,pass_stemdel_test
-A Beautiful Mind,2001,FALSE
-Hidden Figures,2016,TRUE
-The Imitation Game,2014,TRUE
-Jurassic Park,1993,TRUE
-Avatar,2009,TRUE
-Bridget Jones's Diary,2001,FALSE
-Friends with Benefits,2011,FALSE
-The Circle,2017,FALSE
-Good Will Hunting,1997,FALSE
-First Man,2018,FALSE
-The Man Who Knew Infinity,2015,FALSE
-The Theory of Everything,2014,TRUE
-Iron Man,2008,FALSE
-Skyfall,2012,FALSE
+﻿name,year,pass_stemdel_test,url
+A Beautiful Mind,2001,FALSE,https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg
+Hidden Figures,2016,TRUE,"https://m.media-amazon.com/images/M/MV5BMzg2Mzg4YmUtNDdkNy00NWY1LWE3NmEtZWMwNGNlMzE5YzU3XkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+The Imitation Game,2014,TRUE,https://is4-ssl.mzstatic.com/image/thumb/Video52/v4/6a/8f/7f/6a8f7fb0-7624-a34e-19f6-7da387922d12/pr_source.lsr/268x0w.jpg
+Jurassic Park,1993,TRUE,https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/16/ec/1d/16ec1d49-bd88-f23c-393d-0a850c0ca1c9/contsched.rwjqgfdx.lsr/268x0w.jpg
+Avatar,2009,TRUE,https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg
+Bridget Jones's Diary,2001,FALSE,https://images-na.ssl-images-amazon.com/images/I/51BRM4GZRQL._SY445_.jpg
+Friends with Benefits,2011,FALSE,http://www.sonypictures.com/movies/friendswithbenefits/assets/images/onesheet.jpg
+The Circle,2017,FALSE,https://in.bmscdn.com/iedb/movies/images/website/poster/large/the-circle-et00050335-08-12-2016-10-24-45.jpg
+Good Will Hunting,1997,FALSE,https://upload.wikimedia.org/wikipedia/en/5/52/Good_Will_Hunting.png
+First Man,2018,FALSE,https://i.imgur.com/S2Fc1jo.jpg
+The Man Who Knew Infinity,2015,FALSE,https://m.media-amazon.com/images/M/MV5BMTU3Njg4MDM3OV5BMl5BanBnXkFtZTgwMjE5ODM3ODE@._V1_.jpg
+The Theory of Everything,2014,TRUE,https://upload.wikimedia.org/wikipedia/en/6/67/The_Theory_of_Everything_%282014%29.jpg
+Iron Man,2008,FALSE,https://images-na.ssl-images-amazon.com/images/I/51eDErsnV0L.jpg
+Skyfall,2012,FALSE,https://images-na.ssl-images-amazon.com/images/I/51eDErsnV0L.jpg
