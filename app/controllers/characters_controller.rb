@@ -1,11 +1,11 @@
 class CharactersController < ApplicationController
-  before_action :set_character, only: [:show, :edit, :update, :destroy]
+  before_action :set_film
+  # before_action :set_film_character, only: [:show, :edit, :update, :destroy]
 
   # GET /characters
   # GET /characters.json
   def index
-    @characters = Character.all
-
+    render json: @film.characters
   end
 
   # GET /characters/1
@@ -64,8 +64,8 @@ class CharactersController < ApplicationController
 
   private
     # Use callbacks to share common setup or constraints between actions.
-    def set_character
-      @character = Character.find(params[:id])
+    def set_film
+      @film = Film.find(params[:film_id])
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
