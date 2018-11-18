@@ -1,0 +1,88 @@
+﻿job,is_stem
+Accountant,FALSE
+Actor,FALSE
+Advertising / PR Professional,FALSE
+"Architect, Town Planner, Surveyor",FALSE
+Artist,FALSE
+Astronaut,TRUE
+Astronomer,TRUE
+Auditor,FALSE
+Beautician,FALSE
+Biologist,TRUE
+"Broadcaster (Radio, TV)",FALSE
+Building Inspector,FALSE
+Bus Driver,FALSE
+Business / Marketing / Sales Manager (Non-Tech Industry),FALSE
+Business / Marketing / Sales Manager (Tech Industry),TRUE
+Business Analyst,TRUE
+Carpenter,FALSE
+Chef,FALSE
+Clothing Designer,FALSE
+Clothing Manufacturer,FALSE
+Conference Manager,FALSE
+Construction Worker,FALSE
+"Counsellor, Therapist",FALSE
+Cryptographer,TRUE
+Customer Care,FALSE
+"Dietician, Nutritionist",FALSE
+Diplomat,FALSE
+Director / Producer,FALSE
+Doctor,TRUE
+Electrician,FALSE
+Engineer,TRUE
+Farmer,FALSE
+Financial Manager,FALSE
+Firewoman,FALSE
+Fisherwoman,FALSE
+Fitness Instructor,FALSE
+Florist,FALSE
+Forrester,FALSE
+Gardener,FALSE
+Government Official,FALSE
+Graphic Designer,FALSE
+Hairdresser,FALSE
+Historian,FALSE
+Hotel Worker,FALSE
+"Housekeeper, Cleaner",FALSE
+HR Manager,FALSE
+Interior Designer,FALSE
+IT Professional,TRUE
+Journalist,FALSE
+Lawyer,FALSE
+Librarian,FALSE
+Mathematician,TRUE
+Mechanic,FALSE
+Midwife,FALSE
+Musician,FALSE
+Nanny,FALSE
+Nurse,FALSE
+Office Manager,FALSE
+Paramedic,FALSE
+Pharmacist,TRUE
+Physicist,TRUE
+Pilot,FALSE
+Plumber,FALSE
+Police,FALSE
+Politician,FALSE
+Priest,FALSE
+Product Manager,TRUE
+Publisher,FALSE
+Researcher,FALSE
+Sales Assistant,FALSE
+Scientist,TRUE
+Secretary,FALSE
+Security Officer,FALSE
+Shopworker,FALSE
+Social Worker,FALSE
+Software Developer,TRUE
+Soldier,FALSE
+Sports Profressional,FALSE
+Spy,FALSE
+"Statistician, Economist",TRUE
+Taxi Driver,FALSE
+Teacher,FALSE
+Tech Entrepreneur,TRUE
+Train Driver,FALSE
+Vet,FALSE
+Waitress,FALSE
+Writer,FALSE
