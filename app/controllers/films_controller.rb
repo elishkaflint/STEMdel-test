@@ -43,6 +43,7 @@ class FilmsController < ApplicationController
   # PATCH/PUT /films/1
   # PATCH/PUT /films/1.json
   def update
+    puts film_params
     respond_to do |format|
       if @film.update(film_params)
         format.html { redirect_to @film, notice: 'Film was successfully updated.' }
